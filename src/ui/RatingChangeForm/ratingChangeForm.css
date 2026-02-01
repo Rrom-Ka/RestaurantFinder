@@ -1,0 +1,16 @@
+.wrapper {
+    padding: 0 62px 20px;
+}
+
+.descr {
+    padding-bottom: 5px;
+}
+
+.label {
+    padding-right: 10px;
+}
+
+.select {
+    margin-left: 5px;
+    padding-right: 5px;
+}
